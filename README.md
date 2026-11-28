@@ -4,6 +4,14 @@
 
 </div>
 
+<!--ФОРЖ:МУЗА:НАЧАЛО-->
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/rtynbirf/dogovor@main/repo-muse.svg" width="100%" alt="Муза dogovor: мастерская КУЗНЯ ПОЛИМАТ, кузня ПОЛИМАТ, раунд 12 · REVE=РЕВО" />
+  <br/>
+  <img src="https://cdn.jsdelivr.net/gh/rtynbirf/dogovor@main/forge-divider.svg" width="62%" alt="делитель мастерской КУЗНЯ ПОЛИМАТ" />
+</div>
+<!--ФОРЖ:МУЗА:КОНЕЦ-->
+
 <!--ФОРЖ:ПАСПОРТ:НАЧАЛО-->
 <div align="center">
   <img src="revo-page.svg" width="100%" alt="РЕВО-паспорт страницы dogovor в каноне ORNAMENTAL MYTHO-REALISM: орнаментальная решётка, медальон-миф, строение файлов, лексикон — по фактическому контенту" />
@@ -11,8 +19,20 @@
 
 | ФАЙЛОВ | ПАПОК | КОММИТОВ | ОБНОВЛЕНО | РЕЛИЗОВ |
 |---:|---:|---:|---|---:|
-| 32 | 5 | 74 | 2026-11-28 | 0 |
+| 32 | 5 | 1 | 2026-11-28 | 0 |
 <!--ФОРЖ:ПАСПОРТ:КОНЕЦ-->
+
+# dogovor
+
+<p align="center"><img src="https://cdn.jsdelivr.net/gh/rtynbirf/dogovor@main/.github/social-preview.png" alt="dogovor" width="100%"></p>
+
+<div align="center">
+
+<a href="https://github.com/rtynbirf/dogovor"><img src="banner.png" width="100%" alt="dogovor — штандарт мастерской в каноне ORNAMENTAL MYTHO-REALISM"></a>
+
+</div>
+
+
 
 # ДОГОВОР АГЕНТА · одна страница
 
@@ -56,3 +76,5 @@
 
 Каждый пуш прогоняет автомат: самотест векторов + проверка всех карточек.
 Красный страж = договор сломан, изменения не считаются исполненными.
+
+<!--ФОРЖ:ПОДВАЛ-->
