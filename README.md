@@ -19,8 +19,20 @@
 
 | ФАЙЛОВ | ПАПОК | КОММИТОВ | ОБНОВЛЕНО | РЕЛИЗОВ |
 |---:|---:|---:|---|---:|
-| 34 | 5 | 76 | 2026-11-28 | 0 |
+| 34 | 5 | 1 | 2026-11-28 | 0 |
 <!--ФОРЖ:ПАСПОРТ:КОНЕЦ-->
+
+# dogovor
+
+<div align="center">
+
+<a href="https://github.com/rtynbirf/dogovor"><img src="banner.png" width="100%" alt="dogovor — штандарт мастерской в каноне ORNAMENTAL MYTHO-REALISM"></a>
+
+</div>
+
+
+
+
 
 # dogovor
 
